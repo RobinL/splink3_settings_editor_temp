@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/splink3_settings_editor_temp/html.worker.js"
   },
   {
-    "revision": "dbe5242472a25aabba565e5cbc268118",
+    "revision": "92dcfca644deb50a2f4f26530a5a8c61",
     "url": "/splink3_settings_editor_temp/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/splink3_settings_editor_temp/static/css/3.ab585abf.chunk.css"
   },
   {
-    "revision": "74d47941ed4b2ce59081",
+    "revision": "38cc5a3033c2bd68553a",
     "url": "/splink3_settings_editor_temp/static/css/main.1f48b9a0.chunk.css"
   },
   {
@@ -296,8 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/splink3_settings_editor_temp/static/js/9.533ca205.chunk.js"
   },
   {
-    "revision": "74d47941ed4b2ce59081",
-    "url": "/splink3_settings_editor_temp/static/js/main.cbbaf1d0.chunk.js"
+    "revision": "38cc5a3033c2bd68553a",
+    "url": "/splink3_settings_editor_temp/static/js/main.e82eccbd.chunk.js"
   },
   {
     "revision": "cca97055c5997076f14f",
